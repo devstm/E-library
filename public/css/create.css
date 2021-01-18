@@ -1,0 +1,54 @@
+html{
+    width: 100%;
+}
+body{
+    background-image:url(https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80) ;
+    width: 100%;
+}
+.content{
+    background-color: burlywood;
+    padding: 3%;
+    margin: 3% auto;
+    width: 100%;
+    min-height: auto;
+}
+h1{
+    font-size: 45px;
+    color: brown;
+    font-family:"Arial Black";
+}
+#disc{
+    font-size: 27px;
+    color: #a5571f;
+    font-family:"Arial ";
+}
+#line{
+    font-size: 45px;
+    color: brown;
+    margin-top: -3%;
+    overflow: hidden;
+
+
+}
+.form{
+    padding: 4%;
+}
+label{
+    font-size: 25Px;
+    color: brown;
+    font-family: "Arial";
+}
+.btn{
+    background-color: brown;
+    color: #dec042;
+    width: 30%;
+    font-size: 20px;
+    margin-top: 2.4%;
+}
+.btn:hover{
+    background-color: #a5571f;
+}
+.form-control{
+    background-color: #ded483;
+
+}
